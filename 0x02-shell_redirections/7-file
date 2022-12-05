@@ -1,0 +1,3 @@
+#!/bin/bash
+xargs -d'\n' touch -- << '.'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
