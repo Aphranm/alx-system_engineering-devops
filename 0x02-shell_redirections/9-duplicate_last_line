@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 2> lactia
+ls 2> lactia  cat tail -10
