@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 2> lactia   tail -1 -D
+tail -1 iacta >> iacta
